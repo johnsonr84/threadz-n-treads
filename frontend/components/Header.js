@@ -7,7 +7,7 @@ const Logo = styled.h1`
   margin-left: 2rem;
   position: relative;
   z-index: 2;
-  background: red;
+  background: gray;
   transform: skew(-7deg);
   a {
     color: white;
@@ -34,19 +34,19 @@ const HeaderStyles = styled.header`
 `;
 
 export default function Header() {
-    return (
-        <HeaderStyles>
-            <div className="bar">
-                <Logo>
-                    <Link href="/">
-                        Slick Kicks
-                    </Link>
-                </Logo>
-            </div>
-            <div className="sub-bar">
-                <p>Search</p>
-            </div>
-            <Nav />
-        </HeaderStyles>
-    );
+  return (
+    <HeaderStyles>
+      <div className="bar">
+        <Logo>
+          <Link href="/">
+            Threadz N' Treads
+          </Link>
+        </Logo>
+      </div>
+      <div className="sub-bar">
+        <p>Search</p>
+      </div>
+      <Nav />
+    </HeaderStyles>
+  );
 }
