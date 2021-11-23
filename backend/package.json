@@ -1,15 +1,15 @@
 {
-  "name": "sick-fits-backend",
+  "name": "threadz-n-treads-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "Rob Johnson",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
     "seed-data": "keystone-next --seed-data"
   },
   "eslintConfig": {
-    "extends": "wesbos/typescript.js",
+    "extends": "robjohnson/typescript.js",
     "rules": {
       "@typescript-eslint/no-unsafe-assignment": 0
     }
@@ -58,7 +58,7 @@
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-typescript": "^12.0.0",
     "eslint-config-prettier": "^6.15.0",
-    "eslint-config-wesbos": "^2.0.0-beta.4",
+    "eslint-config-robjohnson": "^2.0.0-beta.4",
     "eslint-plugin-html": "^6.1.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
@@ -71,5 +71,5 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "repository": "https://github.com/wesbos/advanced-react"
+  "repository": "https://github.com/johnsonr84/threadz-n-treads"
 }
