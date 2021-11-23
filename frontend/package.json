@@ -1,7 +1,7 @@
 {
-  "name": "sick-fits-frontend",
+  "name": "threadz-n-treads-frontend",
   "version": "2.0.0",
-  "description": "Sick Fits! An example React, GraphQL, Next and Apollo",
+  "description": "Threadz N' Treads! An example React, GraphQL, Next and Apollo",
   "main": "index.js",
   "scripts": {
     "dev": "next -p 7777",
@@ -49,7 +49,7 @@
     "eslint": "^7.14.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^6.15.0",
-    "eslint-config-wesbos": "^1.0.1",
+    "eslint-config-robjohnson": "^1.0.1",
     "eslint-plugin-html": "^6.1.1",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
@@ -62,7 +62,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "wesbos"
+      "robjohnson"
     ]
   },
   "jest": {
