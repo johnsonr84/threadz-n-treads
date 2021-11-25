@@ -18,12 +18,12 @@ const Logo = styled.h1`
 `;
 
 const HeaderStyles = styled.header`
-.bar {
+  .bar {
     border-bottom: 10px solid var(--black, black);
     display: grid;
     grid-template-columns: auto 1fr;
     justify-content: space-between;
-    align-items: center;
+    align-items: stretch;
   }
 
   .sub-bar {
@@ -38,9 +38,7 @@ export default function Header() {
     <HeaderStyles>
       <div className="bar">
         <Logo>
-          <Link href="/">
-            Threadz N' Treads
-          </Link>
+          <Link href="/">Threadz N' Treads</Link>
         </Logo>
       </div>
       <div className="sub-bar">
