@@ -1,4 +1,4 @@
-import useForm from '../lib/useForm';
+import useForm from '../lib/useForm.js';
 
 export default function CreateProduct() {
   const { inputs, handleChange, clearForm, resetForm } = useForm({
