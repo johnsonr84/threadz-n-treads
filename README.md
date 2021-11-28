@@ -75,7 +75,7 @@ React.js, TypeScript, GraphQL, Apollo, Next.js, Keystone.js, Node.js, Express.js
 
 ## Credits
 
-I would like to credit Wes Bos's Learn Node.js Course for teaching me the skills necessary to complete this wonderful project and to improve my understanding of Node withing a fullstack project.
+I would like to credit Wes Bos's Advanced React & GraphQL Course for teaching me the skills necessary to complete this wonderful Fullstack project and to improve my understanding of creating this amazing and uniquely customized online store.
 
 ## License
 
