@@ -1,4 +1,8 @@
-# threadz-n-treads
+<h1 align="center"><a href="https://github.com/johnsonr84/threadz-n-treads">Threadz N' Treads 👟 </a></h1>
+
+## Description
+
+Threadz N' Treads - A Trendy Fullstack Online Clothing Store (Search, Sell, Add to Cart and Checkout) that features GraphQL API with Node.js and TypeScript on the Backend and React and Apollo on the Front End
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
 [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/threadz-n-treads?color=orange)](https://github.com/johnsonr84/threadz-n-treads)
@@ -28,11 +32,7 @@
 - [License](#License)
 - [Resources](#Resources)
 - [Contact](#Contact)
-- [Designed and Built By](#Designed-and-Built-By)
-
-## Description
-
-Threadz N' Treads - A Trendy Fullstack Online Clothing Store (Search, Sell, Add to Cart and Checkout) that features GraphQL API with Node.js and TypeScript on the Backend and React and Apollo on the Front End
+- [Author](#Author)
 
 ## Outcome
 
