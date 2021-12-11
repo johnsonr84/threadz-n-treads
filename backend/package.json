@@ -5,8 +5,10 @@
   "author": "Rob Johnson",
   "license": "MIT",
   "scripts": {
-    "dev": "keystone-next",
-    "seed-data": "keystone-next --seed-data"
+    "dev": "keystone dev",
+    "start": "keystone start",
+    "build": "keystone build",
+    "seed-data": "keystone --seed-data"
   },
   "eslintConfig": {
     "extends": "wesbos/typescript.js",
@@ -35,13 +37,12 @@
     ]
   },
   "dependencies": {
-    "@keystone-next/admin-ui": "^8.0.1",
-    "@keystone-next/auth": "^14.0.0",
-    "@keystone-next/cloudinary": "^2.0.9",
-    "@keystone-next/fields": "^4.1.1",
-    "@keystone-next/keystone": "^9.3.0",
-    "@keystone-next/types": "^12.0.0",
-    "@keystonejs/server-side-graphql-client": "^1.1.2",
+    "@keystone-6/auth": "1.0.0",
+    "@keystone-6/cloudinary": "1.0.0",
+    "@keystone-6/document-renderer": "1.0.0",
+    "@keystone-6/fields-document": "1.0.0",
+    "@keystone-6/core": "1.0.0",
+    "@keystone-6/session-store-redis": "1.0.0",
     "@types/nodemailer": "^6.4.0",
     "dotenv": "^8.2.0",
     "next": "^10.0.5",
