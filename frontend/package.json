@@ -1,4 +1,4 @@
-git s{
+{
   "name": "threadz-n-treads-frontend",
   "version": "2.0.0",
   "description": "Threadz N' Treads! An example React, GraphQL, Next and Apollo",
@@ -7,7 +7,9 @@ git s{
     "dev": "next -p 7777",
     "build": "next build",
     "start": "next start -p 7777",
-    "test": "NODE_ENV=test jest --watch"
+    "test": "NODE_ENV=test jest --watch",
+    "heroku-postbuild": "next build",
+    "preinstall": "npx npm-force-resolutions"
   },
   "author": "",
   "license": "ISC",
