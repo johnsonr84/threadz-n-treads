@@ -1,7 +1,12 @@
+import CreateProduct from '../components/CreateProduct';
+import PleaseSignIn from '../components/PleaseSignIn';
+
 export default function SellPage() {
-    return (
-        <>
-            <p>Hello and the sell page!</p>
-        </>
-    );
+  return (
+    <div>
+      <PleaseSignIn>
+        <CreateProduct />
+      </PleaseSignIn>
+    </div>
+  );
 }
