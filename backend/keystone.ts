@@ -14,8 +14,8 @@ import { insertSeedData } from './seed-data';
 import { sendPasswordResetEmail } from './lib/mail';
 import { extendGraphqlSchema } from './mutations';
 
-// const databaseURL = process.env.DATABASE_URL || 'mongodb://localhost/keystone-threadz-n-threads';
-const databaseURL = process.env.DATABASE_URL || 'file:./keystone.db';
+const databaseURL = process.env.DATABASE_URL || 'mongodb://localhost/keystone-threadznthreads';
+// const databaseURL = process.env.DATABASE_URL || 'file:./keystone.db';
 
 const sessionConfig = {
   maxAge: 60 * 60 * 24 * 360, // How long they stay signed in?
