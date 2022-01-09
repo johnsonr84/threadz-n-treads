@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://github.com/johnsonr84/threadz-n-treads">Threadz N' Treads 👟 </a></h1>
 
 ## Description
-
 Threadz N' Treads - A Trendy Fullstack Online Clothing Store (Search, Sell, Add to Cart and Checkout) that features GraphQL API with Node.js and TypeScript on the Backend and React and Apollo on the Front End
 
 [![github-follow](https://img.shields.io/github/followers/johnsonr84.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/johnsonr84)
@@ -10,7 +9,6 @@ Threadz N' Treads - A Trendy Fullstack Online Clothing Store (Search, Sell, Add 
 [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
 ## Built With
-
 [![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -20,7 +18,6 @@ Threadz N' Treads - A Trendy Fullstack Online Clothing Store (Search, Sell, Add 
 [![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 
 ## Table of Contents
-
 - [Description](#Description)
 - [Outcome](#Outcome)
 - [Project URL](#Project-URL)
@@ -49,13 +46,12 @@ Coming soon!
 <!-- - [https://johnsonr84.github.io/threadz-n-treads/](https://johnsonr84.github.io/threadz-n-treads/) -->
 
 ## Demo/Screenshots
-
   <table>
     <tr>
       <td>Threadz N' Treads Example</td>
     </tr>
     <tr>
-    <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td>
+    <!-- <td><video playsinline="" src="https://player.vimeo.com/external/214724905.hd.mp4?s=5cd8253c819177881cc44457e4e6784c626a2599&amp;profile_id=174" muted="" autoplay="" loop="" height=400></video></td> -->
       <!-- <td><img src="" height=600 alt="screenshot of threadz-n-treads"></td> -->
     </tr>
   </table>
@@ -94,7 +90,7 @@ This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
 Email: robertcjohnson1984@gmail.com
 
-## Designed and Built By
+## Author
 
 Author(s): Rob Johnson  
  GitHub: https://github.com/johnsonr84/
